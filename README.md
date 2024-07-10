@@ -4,6 +4,11 @@
 
 A simple game where two players fight in a magical arena. Players take turns attacking and defending until one player's health reaches 0.
 
+## Contribute
+
+GitHub Repo : https://github.com/vermaanurag1532/magicArena
+Email : vermaanurag1532@gmail.com
+
 ## Installation
 
 1. Clone the repository.
@@ -13,4 +18,3 @@ A simple game where two players fight in a magical arena. Players take turns att
 ```sh
 npm install
 npm start
-
