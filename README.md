@@ -6,7 +6,7 @@ A simple game where two players fight in a magical arena. Players take turns att
 
 ## Contribute
 
-GitHub Repo : https://github.com/vermaanurag1532/magicArena
+GitHub Repo : https://github.com/vermaanurag1532/magicArena .
 Email : vermaanurag1532@gmail.com
 
 ## Installation
