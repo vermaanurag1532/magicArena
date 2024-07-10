@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Magical Arena</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Magical Arena</h1>
+    <div class="player-input">
+      <input id="player1-name" type="text" placeholder="Player 1 Name">
+      <input id="player1-health" type="number" placeholder="Health">
+      <input id="player1-strength" type="number" placeholder="Strength">
+      <input id="player1-attack" type="number" placeholder="Attack">
+    </div>
+    <div class="player-input">
+      <input id="player2-name" type="text" placeholder="Player 2 Name">
+      <input id="player2-health" type="number" placeholder="Health">
+      <input id="player2-strength" type="number" placeholder="Strength">
+      <input id="player2-attack" type="number" placeholder="Attack">
+    </div>
+    <button class="btn" onclick="startGame()">Start Game</button>
+    <button class="btn" onclick="fightRound()">Fight Round</button>
+    <div class="fight-log" id="fight-log"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
